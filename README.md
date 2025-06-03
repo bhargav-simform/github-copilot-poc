@@ -114,7 +114,9 @@ export default tseslint.config({
 - The color of input is not good  
   - Take reference from somewhere and fix it  
 - Same for table styling  
-  - Colors should be clearly visible (e.g., font: black, background: light color) 
+  - Colors sho
+
+#### 🎨 Styling Notes
 
 
 
